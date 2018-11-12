@@ -4,7 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-I write to allow myself to hear my own voice as clearly as others tell me they can hear it.
+Others have said they can hear my voice very clearly as they read my writing. This is a practice space for me to know my true voice just as clearly, to know what I sound like. It takes a long time to sound like yourself, like Miles said.
 
-This site exists to practice writing and work to come.
-
+More will show up here in time, I promise.
