@@ -4,6 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
-I love hearing others talk about hearing my voice in my writing. I write to learn what I truly sound like.
+I love hearing others tell me how clear my voice sounds in their head as they read my words. 
+
+I write to be able to hear my own voice.
 
 More will show up here soon, I promise.
