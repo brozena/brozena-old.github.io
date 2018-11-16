@@ -4,8 +4,12 @@ title: "About"
 permalink: /about/
 ---
 
-I love hearing others tell me how clear my voice sounds in their head as they read my words. 
+Here are a few things I love,
 
-I write to be able to hear my own voice.
+- Zen Buddhism
+- Systems, complexity theory
+- Org development & complex change management
+- Family systems theory & cross-generational trauma, epigenetics
+- Tabla, drums, biorhythms, breathing -- mostly concurrently
 
-More will show up here soon, I promise.
+Mostly I write to learn what my own voice sounds like, otherwise it's difficult for me to hear.
