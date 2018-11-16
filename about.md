@@ -12,4 +12,4 @@ Here are a few things I love,
 - Tabla, drums, biorhythms, breathing -- mostly concurrently
 - Family systems theory & cross-generational trauma, epigenetics
 
-Mostly I write to learn what my own voice sounds like, otherwise it's difficult for me to hear.
+I write to learn what my own voice sounds like, otherwise it's difficult for me to hear.
