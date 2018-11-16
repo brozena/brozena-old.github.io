@@ -6,6 +6,7 @@ permalink: /about/
 
 Here are a few things I love,
 
+- Viktor Frankl's writing
 - [Endless Mountain Zendo](http://www.endlessmountainzendo.org)
 - Systems, complexity theory
 - Org development & complex change management
