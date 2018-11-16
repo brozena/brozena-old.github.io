@@ -6,7 +6,7 @@ permalink: /about/
 
 Here are a few things I love,
 
-- Zen Buddhism
+- [Endless Mountain Zendo](http://www.endlessmountainzendo.org)
 - Systems, complexity theory
 - Org development & complex change management
 - Tabla, drums, biorhythms, breathing -- mostly concurrently
