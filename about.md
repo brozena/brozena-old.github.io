@@ -9,7 +9,7 @@ Here are a few things I love,
 - Zen Buddhism
 - Systems, complexity theory
 - Org development & complex change management
-- Family systems theory & cross-generational trauma, epigenetics
 - Tabla, drums, biorhythms, breathing -- mostly concurrently
+- Family systems theory & cross-generational trauma, epigenetics
 
 Mostly I write to learn what my own voice sounds like, otherwise it's difficult for me to hear.
