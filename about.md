@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-Here are a few things I love,
+A few things I love,
 
 - Viktor Frankl's writing
 - [Endless Mountain Zendo](http://www.endlessmountainzendo.org)
