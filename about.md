@@ -6,7 +6,7 @@ permalink: /about/
 
 A few things I love,
 
-- The writing of Viktor Frankl
+- Viktor Frankl's writing
 - [Endless Mountain Zendo](http://www.endlessmountainzendo.org)
 - Complexity theory, complex adaptive systems
 - Org development & complex change management
