@@ -12,3 +12,8 @@ A few things I love,
 - Org development & complex change management
 - Tabla, drums, biorhythms, breathing -- mostly concurrently
 - Family systems theory & cross-generational trauma, epigenetics
+
+
+Recent reads,
+
+{% include goodreads.html %}
