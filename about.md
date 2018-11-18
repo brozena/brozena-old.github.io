@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-A few things I love,
+### A few things I love,
 
 - Viktor Frankl's writing
 - [Endless Mountain Zendo](http://www.endlessmountainzendo.org)
@@ -14,6 +14,6 @@ A few things I love,
 - Family systems theory & cross-generational trauma, epigenetics
 
 
-Recent reads,
+### Recent reads,
 
 {% include goodreads.html %}
