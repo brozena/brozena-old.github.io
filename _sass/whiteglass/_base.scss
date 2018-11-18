@@ -201,7 +201,7 @@ $breakpoint-below-md: '(max-width: 64em)';
 /**
  * Clearfix
  */
-.clearfix:before {
+%clearfix:before {
   content: ' ';
   display: table;
  }
