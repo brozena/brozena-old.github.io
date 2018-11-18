@@ -201,12 +201,12 @@ $breakpoint-below-md: '(max-width: 64em)';
 /**
  * Clearfix
  */
-.clearfix:before, .clearfix:after {
+%clearfix:before, .clearfix:after {
   content: ' ';
   display: table;
  }
 
-.clearfix:after {
+%clearfix:after {
   clear: both;
 }
 
