@@ -200,8 +200,12 @@ pre {
 /**
  * Clearfix
  */
-%clearfix:after {
-  content: "";
+.clearfix:before, .clearfix:after {
+  content: ' ';
   display: table;
+ }
+
+.clearfix:after {
   clear: both;
 }
+
