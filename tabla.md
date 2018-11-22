@@ -18,4 +18,4 @@ I study with [Dan Weiss](http://danweiss.net) in Brooklyn where I live sometimes
 
 Today, I have come to understand how intrinsic my love of this music and especially this instrument is to me. I desire to practice in the traditional ways as sincerely as I can. I desire to see this as both a means and an end. 
 
-While I can imagine beautiful moments will come from this, this comes with many fewer burdens of expectation today -- thank goodness.
+While I can imagine beautiful moments will come from this practice as they have over the last ten years, this dream comes with many fewer burdens of my own expectations today -- thank goodness.
