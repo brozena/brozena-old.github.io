@@ -24,7 +24,7 @@ The moral of the story was to give permission to lead what my friend called an o
 
 ### Leaping into Interest Monogamy
 
-![Chase two rabbits, catch none]("/assets/rabbits.png")
+![Chase two rabbits, catch none](/assets/rabbits.png)
 
 Recently at a musical gathering, a friend and teacher described the urgency of personal commitment to a traditional discipline. Although this context was musical, the message was universal: Choose it, or don't. But once chosen, don't be wishy-washy. Don't course correct without allowing enough time for it to really develop. These things require too much to not really commit. And in all seriousness past and future practitioners depend on this.
 
