@@ -2,6 +2,7 @@
 ---
 Layout: page
 Title: Tabla
+permalink: "/tabla"
 ---
 
 My first exposure to the sound of the tabla was in high school with Sweet Sixteen by the Diga Rhythm Band. I was immediately pulled in by their melody and clarity. I kept my interest on the back burner for years, pretending to speak the syllables instead of singing in the shower. Back then there was no known way forward.
