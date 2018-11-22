@@ -1,7 +1,7 @@
 
 ---
-Layout: page
-Title: Tabla
+layout: page
+title: Tabla
 permalink: "/tabla"
 ---
 
