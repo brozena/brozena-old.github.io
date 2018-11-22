@@ -10,7 +10,7 @@ permalink: /about/
 - [Endless Mountain Zendo](http://www.endlessmountainzendo.org)
 - Complexity theory, complex adaptive systems
 - Org development & complex change management
-- Tabla, drums, biorhythms, breathing -- mostly concurrently
+- [Tabla](/tabla/), drums, biorhythms, breathing -- mostly concurrently
 - Family systems theory & cross-generational trauma, epigenetics
 
 
