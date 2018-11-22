@@ -15,3 +15,7 @@ While at Penn State I became involved with a student group called PSU Geet. Back
 I returned home to Scranton to meet my next teacher Bhimsen Mudaljikar at the strong encouragement of a good friend here Dr. Lakshmi Mizin. Bhimsen has been in the United States since the 1970s, keeping up his practice and teaching students in the region.
 
 I study with [Dan Weiss](http://danweiss.net) in Brooklyn where I live sometimes.
+
+Today, I have come to understand how intrinsic my love of this music and especially this instrument is to me. I desire to practice in the traditional ways as sincerely as I can. I desire to see this as both a means and an end. 
+
+While I can imagine beautiful moments will come from this, this comes with many fewer burdens of expectation today -- thank goodness.
