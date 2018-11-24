@@ -18,4 +18,6 @@ I study with [Dan Weiss](http://danweiss.net) in Brooklyn where I live sometimes
 
 Today, I have come to understand how intrinsic my love of this music and especially this instrument is to me. I desire to practice in the traditional ways as sincerely as I can. I desire to see this as both a means and an end. 
 
-I can imagine beautiful moments will come from this practice as they have over the last ten years. Today, I can see how light my dream is -- finally free of unnecessary weight. It is a beautiful moment daily when I sit down to play and listen.
+I can imagine beautiful moments will come from this practice as they have over the last ten years. Today, I can feel how light my dream is, finally free of unnecessary weight. Each moment I sit down to play and listen is a beautiful moment.
+
+This took a long time.
