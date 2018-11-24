@@ -12,11 +12,11 @@ Thanks to a chance encounter while studying (not yet music) at Penn State Univer
 
 While at Penn State I became involved with a student group called PSU Geet. Back then we hosted musicians like Samarth Nagarkar, Nitin Mitta and Anupama Bhagwat for Hindustani classical concerts at PSU. And so I became exposed to New York City's indian classical scene.
 
-I returned home to Scranton to meet my next teacher Bhimsen Mudaljikar at the strong encouragement of a good friend here Dr. Lakshmi Mizin. Bhimsen has been in the United States since the 1970s, keeping up his practice and teaching students in the region.
+I returned home to Scranton to meet my next teacher Bhimsen Mudaljikar at the encouragement of a good friend here Dr. Lakshmi Mizin. Bhimsen has been in the United States since the 1970s, keeping up his practice and teaching students in the region.
 
-I study with [Dan Weiss](http://danweiss.net) in Brooklyn where I live sometimes.
+I have been traveling to study tabla with [Dan Weiss](http://danweiss.net) since 2011 or so. 
 
-Today, living at Penn State for now, I have come to understand how intrinsic my love of music and especially this instrument is to me. I desire to practice this tradition as sincerely as I can. I desire to see this practice as both a means and an end. 
+Today, living at Penn State for now, I have come to understand how intrinsic my love of music and especially this instrument is to me. I desire to practice this tradition as sincerely as I can and afford myself the time for it. I desire to see this practice as both a means and an end. 
 
 I can imagine beautiful moments will follow as they have over the last ten years. But today I can feel how light my dream is, finally free of the unnecessary weight of expectation. Each moment I sit down to play and listen is a beautiful moment.
 
