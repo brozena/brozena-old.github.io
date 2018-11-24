@@ -16,8 +16,8 @@ I returned home to Scranton to meet my next teacher Bhimsen Mudaljikar at the st
 
 I study with [Dan Weiss](http://danweiss.net) in Brooklyn where I live sometimes.
 
-Today, I have come to understand how intrinsic my love of this music and especially this instrument is to me. I desire to practice in the traditional ways as sincerely as I can. I desire to see this as both a means and an end. 
+Today, living at Penn State for now, I have come to understand how intrinsic my love of music and especially this instrument is to me. I desire to practice this tradition as sincerely as I can. I desire to see this practice as both a means and an end. 
 
-I can imagine beautiful moments will come from this practice as they have over the last ten years. Today, I can feel how light my dream is, finally free of unnecessary weight. Each moment I sit down to play and listen is a beautiful moment.
+I can imagine beautiful moments will follow as they have over the last ten years. But today I can feel how light my dream is, finally free of the unnecessary weight of expectation. Each moment I sit down to play and listen is a beautiful moment.
 
 This took a long time.
