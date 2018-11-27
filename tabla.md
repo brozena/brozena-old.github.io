@@ -7,7 +7,7 @@ permalink: /tabla/
 ![Self-portrait, Bed-Stuy, February 2015](/assets/selftabla.png)
 _Self-portrait, Bed-Stuy, February 2015. All other photos shot by yours truly._
 
-My first exposure to the sound of the tabla was in high school hearing Mickey Hart and Zakir Hussain playing [Sweet Sixteen](https://www.youtube.com/watch?v=jkubRK-RRUQ) and the [American Beauty score](https://www.youtube.com/watch?v=hrU3EppRwNA). I kept this interest on the back burner for years, pretending to speak the syllables instead of singing in the shower. At some point, I told a friend I would put down drumsticks and only play with my hands. At the time I had no idea how to pursue them.
+My first exposure to the sound of the tabla was in high school hearing Mickey Hart and Zakir Hussain playing [Sweet Sixteen](https://www.youtube.com/watch?v=jkubRK-RRUQ) and the [American Beauty score](https://www.youtube.com/watch?v=hrU3EppRwNA). Fascinated by their sound, I kept this interest on the back burner for years but still pretended to speak the syllables instead of singing in the shower. At some point, I told a friend I would put down drumsticks and only play with my hands. At the time I had no idea how to pursue them.
 
 Throughout my twenties the dream of playing became much bigger. I started to approach classical music by listening to Zakir Hussain's "Selects" and Ravi Shankar's "The Master Drummers of India" -- but without being familiar with any of the concepts of Indian rhythm I could only be both lost and in love.
 
