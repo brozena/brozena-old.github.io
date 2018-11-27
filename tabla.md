@@ -56,6 +56,6 @@ I desire to see this practice as both a means and an end.
 
 I can imagine beautiful moments will follow as they have over the last ten years. But today I can feel how light my dream is, finally free of expectation's weight. Each moment I sit down to play and listen is a beautiful moment.
 
-[This]({% post_url 2016-07-25-harvesting-discipline %}) took a long time. Which is to say, forgiveness must come before acts of creation can.
+[This]({% post_url 2016-07-25-harvesting-discipline %}) took a long time. Which is to say, forgiveness opens up the possibility of creation.
 
 ![A long time.](/assets/sunday.png)
