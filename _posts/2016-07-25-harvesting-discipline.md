@@ -19,7 +19,7 @@ One day I was at a coffee shop at Penn State with a friend and teacher. He told 
 
 That dust caused frustration over time. The more one pursuit developed, the more dust fell over past passions. This created tension as he attempted to develop any one of his interests. So to clean up the dust and relieve the tension, he either needed more time (nope) or to commit to less.
 
-The moral of the story was to give permission to lead what my friend called an ordinary life.
+The moral of the story was to give myself permission to lead what my friend called an ordinary life.
 
 ![Chase two rabbits, catch none](/assets/rabbits.png)
 
