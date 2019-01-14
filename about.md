@@ -11,7 +11,7 @@ permalink: /about/
 - Complexity theory, complex adaptive systems
 - Org development & complex change management
 - [Tabla](/tabla/), drums, biorhythms, breathing -- mostly concurrently
-- Family systems theory & cross-generational trauma, epigenetics
+- Family systems theory & cross-generational trauma
 
 
 ### Recent reads
