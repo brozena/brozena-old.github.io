@@ -5,7 +5,7 @@ permalink: /tabla/
 ---
 
 ![Self-portrait, Bed-Stuy, February 2015](/assets/selftabla.png)
-_Self-portrait, Bed-Stuy, February 2015. All other photos shot by yours truly._
+_Self-portrait, Bed-Stuy, February 2015. All photos mine._
 
 My first exposure to the sound of the tabla was in high school hearing Mickey Hart and Zakir Hussain playing [Sweet Sixteen](https://www.youtube.com/watch?v=jkubRK-RRUQ) and the [American Beauty score](https://www.youtube.com/watch?v=hrU3EppRwNA). Fascinated by their sound, I kept this interest on the back burner for years. I would pretend to speak the syllables instead of singing in the shower. At some point, I told a friend I would put down drumsticks and only play with my hands. I had no idea how to pursue them.
 
