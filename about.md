@@ -7,7 +7,7 @@ description: The life, times and spaces of Jeff Brozena.
 
 ![Jim Lennox's painting in Hunlock Creek, PA](/assets/self.png)
 
-### Speaking personally
+## Speaking personally
 
 A native Pennsylvanian who values trees and people given the correct ratio of the two. I sometimes publish essays and poetry primarily to document my process of growth and understanding of artful living, professional work, and the balanced relationship between the two.
 
@@ -19,7 +19,7 @@ I also write often, some of which is published on this site.
 
 Throughout my 30s, I plan on pursuing graduate work in counseling psychology.
 
-#### A few favorite things
+### A few favorite things
 
 - Viktor Frankl's writing
 - Organizational structures, architectures & complex change management
@@ -27,7 +27,7 @@ Throughout my 30s, I plan on pursuing graduate work in counseling psychology.
 - Family systems theory & the subject of healing cross-generational trauma
 - Complexity theory, complex adaptive systems
 
-### Speaking professionally
+## Speaking professionally
 
 I worked for 7 years integrating and aligning software to fit strategic business needs during periods of rapid growth in the healthcare domain. Throughout college, I worked for 5 years as a software trainer. As I write on my [LinkedIn](https://www.linkedin.com/in/brozena) profile,
 
@@ -35,7 +35,7 @@ I worked for 7 years integrating and aligning software to fit strategic business
 
 For a more nuanced take on my work at Smiles4Keeps Pediatric Dentistry, [Healing vs Fixing]({% post_url 2016-05-12-healing-vs-fixing %}) offers a subjective description of my less-technical accomplishments, however lasting. This and other strategic writing was distributed internally and catalyzed organizational changes.
 
-### Recent reads
+## Recent reads
 
 I tend to keep my [Goodreads profile](https://goodreads.com/brozena) current.
 
