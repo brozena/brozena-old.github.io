@@ -2,7 +2,7 @@
 
 ## Speaking personally
 
-**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given the correct ratio of the two. This site serves to document my deepening understanding of artful living, professional work, and the balanced relationship between the two.
+**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given the correct ratio of the two. This site exists to document the process of my continued, balanced exploration of artful living and work.
 
 I play drums and [tabla](/tabla/) and spend time between New York and Pennsylvania to pursue this discipline.
 
