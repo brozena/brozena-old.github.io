@@ -5,6 +5,6 @@
 layout: home
 title: Jeff Brozena
 keywords: jeff brozena, jeffrey brozena, brozena
-description: The life, times, spaces of Jeff Brozena.
+description: The life and spacetime of Jeff Brozena.
 ---
 {% include about.md %}
