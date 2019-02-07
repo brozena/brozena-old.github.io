@@ -16,7 +16,7 @@
 title: brozena.net
 author: Jeff Brozena
 description: A presence online. Reflections, essays, code, etc.
-baseurl: "/about/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://brozena.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
