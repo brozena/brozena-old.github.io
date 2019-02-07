@@ -12,8 +12,6 @@ I'm not here to write about habitual change or self-improvement. There's plenty 
 
 Meet people where they are. Meet organizations where they are. It's not of much value to attempt to change things you cannot change - to control, command. It's just temporary. The moment the controller leaves the room, what happens? There's never really control anyway.
 
-Reawaken the possibility of possibility.
-
 People don't want to be changed, they want to change, to improve, to grow.
 
 What does it look like to establish a clear direction while allowing people enough space to do their own thing within boundaries? The only way to be creative is to establish and work within a few well-defined constraints. Otherwise it's all movement and no action.

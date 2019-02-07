@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: "Jeff Brozena"
-permalink: /about/
+keywords: jeff brozena, jeffrey brozena, brozena
+description: The life, times and spaces of Jeff Brozena.
 ---
 
 ![Jim Lennox's painting in Hunlock Creek, PA](/assets/self.png)

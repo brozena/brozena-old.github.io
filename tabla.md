@@ -2,6 +2,7 @@
 layout: page
 title: "Tabla"
 permalink: /tabla/
+description: A photo essay detailing my experiences with tabla so far.
 ---
 
 ![Self-portrait, Bed-Stuy, February 2015](/assets/selftabla.png)
