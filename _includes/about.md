@@ -1,21 +1,14 @@
----
-layout: default
-title: "Jeff Brozena"
-keywords: jeff brozena, jeffrey brozena, brozena
-description: The life, times and spaces of Jeff Brozena.
----
-
 ![Jim Lennox's painting in Hunlock Creek, PA](/assets/self.png)
 
 ## Speaking personally
 
-A native Pennsylvanian who values trees and people given the correct ratio of the two. I sometimes publish essays and poetry primarily to document my process of growth and understanding of artful living, professional work, and the balanced relationship between the two.
+Here is a native Pennsylvanian who values trees and people given the correct ratio of the two. I publish essays and poetry to document my deepening understanding of artful living, professional work, and the balanced relationship between the two.
 
 I play drums and [tabla](/tabla/) and spend time between New York and Pennsylvania to pursue this discipline.
 
 Zen Buddhism remains an important part of my life, and I practice at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA.
 
-I also write often, some of which is published on this site. 
+I write often, and some is published [here](/archives).
 
 Throughout my 30s, I plan on pursuing graduate work in counseling psychology.
 

@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: brozena.net
 author: Jeff Brozena
-description: A presence online. Reflections, essays, code, etc.
+description: Broadcasting from home.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://brozena.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
@@ -42,7 +42,6 @@ comments: false
 # Plugins
 plugins:
   - jekyll-archives
-  - jekyll-paginate
   - jekyll-sitemap
 
 # Build settings
@@ -51,8 +50,6 @@ excerpt_separator: "<!-- more -->"
 
 # Outputting
 permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 5
 
 # Markdown settings
 kramdown:
@@ -65,9 +62,6 @@ kramdown:
 
 # jekyll-archives
 jekyll-archives:
-  enabled:
-    - categories
-    - tags
   layout: category_archives
   permalinks:
     category: /categories/:name/
