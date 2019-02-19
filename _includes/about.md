@@ -2,7 +2,7 @@
 
 ## Speaking personally
 
-**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given a good ratio of the two. This site exists to document the process of my balancing act/exploration of artful living and work.
+**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given a good ratio of the two. This site serves to document my balancing exploration of artful living and work.
 
 I play drums and [tabla](/tabla/) and spend time between New York and Pennsylvania to pursue this discipline.
 
@@ -15,9 +15,9 @@ Throughout my 30s, I plan on pursuing graduate work in counseling psychology.
 ### A few favorite things
 
 - Viktor Frankl's writing
-- Organizational structures, architectures & complex change management
-- [Tabla](/tabla/), drums, biorhythms & breathing -- concurrently when possible
-- Family systems theory & the subject of healing cross-generational trauma
+- Organizational structures, architectures & complex change management (e.g., Peter Senge's *The Fifth Discipline*)
+- [Tabla](/tabla/), drums, biorhythms & breathing -- simultaneously when possible
+- Family systems theory & the subject of healing cross-generational trauma (John Bradshaw)
 - Complexity theory, complex adaptive systems
 
 ## Speaking professionally
