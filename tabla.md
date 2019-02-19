@@ -10,7 +10,7 @@ _Self-portrait, Bed-Stuy, February 2015. All photos mine._
 
 My first exposure to the sound of the tabla was in high school hearing Mickey Hart and Zakir Hussain playing [Sweet Sixteen](https://www.youtube.com/watch?v=jkubRK-RRUQ) and the [American Beauty score](https://www.youtube.com/watch?v=hrU3EppRwNA). Fascinated by their sound, I kept this interest on the back burner for years. I would pretend to speak the syllables instead of singing in the shower. At some point, I told a friend I would put down drumsticks and only play with my hands. I had no idea how to pursue them.
 
-Throughout my twenties the dream of playing became much bigger. I started to approach classical music by listening to Zakir Hussain's "Selects" and Ravi Shankar's "The Master Drummers of India" -- but without being familiar with any of the concepts of Indian rhythm I could only be both lost and in love.
+Throughout my twenties the dream of playing became much bigger. I started to approach classical music by listening to Zakir Hussain's "Selects" and Ravi Shankar's "The Master Drummers of India" -- but without being familiar with any of the concepts of Indian rhythm I was both lost and in love.
 
 Thanks to a chance encounter at Penn State University Park in [spring of 2008]({% post_url 2013-10-23-cleaning %}), I was gifted a set of tabla by an astrophysics postdoc named Birjoo Vaishnav. Over a few days, I made futile attempts at getting any sound from them. A week after the gift of these tabla, I met Quamar Barkat as we entered a logic/discrete math course. He was practicing tabla on the desk and I recognized it for what it was. Quamar and I worked together for some time on fundamentals between State College and Philadelphia.
 
@@ -22,14 +22,14 @@ _Jugalbandi, November 2011_
 
 I returned home to Scranton to meet my next teacher Bhimsen Mudaljikar. Bhimsen has been in the United States since the 1970s, keeping up his practice and teaching students in the region. 
 
-Here the Indian community would gather regionally in small and large groups for bhajans, coming together for chanting and food. All I can say is that Northeastern Pennsylvania is home to so much.
+Here the Indian community would gather regionally in small and large groups for bhajans, coming together for chanting and food. All I can say is Northeastern Pennsylvania is home to so much.
 
 ![Bhimsen, Prasanna, Jeff](/assets/waverly.png)
 _Bhimsen, Prasanna, Jeff, 2016_
 
 ### "New York Is the Place"
 
-Having been introduced by Samarth Nagarkar, I traveled to study with [Dan Weiss](http://danweiss.net) beginning in 2011 or so. I would travel from Scranton to Brooklyn as often as I could manage, averaging weekly or monthly through the years -- sometimes several times a week to listen to gigs.
+Having been introduced by Samarth Nagarkar, I began traveling to study with [Dan Weiss](http://danweiss.net) beginning in 2011. I would drive from Scranton to Brooklyn as often as I could manage, averaging weekly or monthly through the years -- sometimes several times a week to listen to gigs.
 
 ![Dan Weiss, Samarth Nagarkar, Miles Okazaki at Seeds, October 2014](/assets/seeds_dansamarthmiles.png)
 _Dan Weiss, Samarth Nagarkar, Miles Okazaki at Seeds, October 2014_
