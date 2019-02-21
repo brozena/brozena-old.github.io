@@ -42,7 +42,7 @@ I have seen with great clarity that **although it is my job to determine who wri
 
 This is the wicked problem of maintaining awareness between mild hypomania and peak experiences of desirable high performance: By the time the coals of hypomania are really simmering, objective self-observation becomes a full-time job. To maintain any hope of social presence requires my full-timte attention, and even that is not enough to maintain steadiness. The power of seduction (and seduction of power) is too real.
 
-**My energy during mild hypomania does tend to seduce.** High-key energetic states offers a sense of relief from depressive tendencies, a "view from above" so high that it appears to be the pure truth. Finally the mask of depression falls off and others are equally as intrigued by what they can see. **Here may be the true self.**
+**My energy during mild hypomania does tend to seduce.** High-key energetic states offer a sense of relief from depressive tendencies, a "view from above" so high that it appears to be the pure truth. Finally the mask of depression falls off and others are equally as intrigued by what they can see. **Here may be the true self.**
 
 My intuition becomes faster and clearer than usual, and lord knows others want to see things from the perspective of heavenly-aboves. Maybe you have heard the stories of Uber’s god-view overlooking all cars at once. Power and clarity of perspective are attractive. Here is where my human condition appears to expand -- for a moment. 
 
