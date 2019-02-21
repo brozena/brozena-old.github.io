@@ -34,13 +34,13 @@ Finally, after ten years of medication, I wanted to reassess the full spectrum o
 
 As Kay Redfield Jamison has written, the most exuberant of us require more shielding than others. And so, *again* I learn that medicated life offers much of the required armor to manage myself as an exuberant person in this world -- while loved ones in my life wait in worry for me to realize this perennial truth. 
 
-> **Hypomania is** considered to be a mild form of madness. It is the state of consciousness I frequent when I go without medication. In mice, when hypomania is induced, they tend to try to escape their environment. It is, simply put, "not yet madness."
+ **Hypomania is** considered to be a mild form of madness. It is the state of consciousness I frequent when I go without medication. In mice, when hypomania is induced, they tend to try to escape their environment. It is, simply put, "not yet madness."
 
 To be clear: At no point did I reject the idea of a treatment plan, or that this was indeed my diagnosis. At no point did I take any substance at all, whether prescribed, illicit, or otherwise. I even weaned over months from all caffeine. What follows is a complete sober account of *psychological baseline.*
 
 I have seen with great clarity that **although it is my job to determine who writes my treatment plan, I cannot personally be the one to write it.** Third-party observation and self-preservation are both requirements to manage this illness well.
 
-This is the wicked problem of maintaining awareness between mild hypomania and peak experiences of desirable high performance: By the time the coals of hypomania are really simmering, objective self-observation becomes a full-time job. To maintain any hope of social presence requires my full-timte attention, and even that is not enough to maintain steadiness. The power of seduction (and seduction of power) is too real.
+This is the wicked problem of maintaining awareness between mild hypomania and peak experiences of desirable high performance: By the time the coals of hypomania are really simmering, objective self-observation becomes a full-time job. To maintain any hope of social presence requires my full-time attention, and even that is not enough to maintain steadiness. The power of seduction (and seduction of power) is too real.
 
 **My energy during mild hypomania does tend to seduce.** High-key energetic states offer a sense of relief from depressive tendencies, a "view from above" so high that it appears to be the pure truth. Finally the mask of depression falls off and others are equally as intrigued by what they can see. **Here may be the true self.**
 
@@ -52,7 +52,7 @@ However, if these qualities evolve into symptoms of a powerful illness of the br
 
 <ol>
 <li>when it was unrecognized by others or by myself</li>
-<li>when it became known to others but not yet myself</li>
+<li>when it became known to others but not yet to myself</li>
 <li>when I became aware of what others had known for months</li>
 </ol>
 
