@@ -5,7 +5,7 @@ title: Nobody Falls Halfway
 
 ![A loftier view](/assets/loftier.png)
 
-_**The fear of heights is rational.**_
+_**The fear of heights is rational even as the heights remain beautiful.**_
 
 _What began as a deep dive into narratives of possible apocalypses ended with a controlled-burn of my own false self, the necessarily crafted personas of my adolescent life._
 
