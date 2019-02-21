@@ -23,7 +23,7 @@ The inner lives of those of us with this illness are not commonly seen or unders
 
 I aim to offer some expensive truths in hopes that they help others along the way. Sanity is one of the many forms of human stability, of the anchors we use to steady ourselves in the world. **I hope my honesty helps make some sense of insanity without doing harm to that which anchors you.**
 
-It is in good and kind faith that I offer this essay, in hopes that it helps the 1-2% of people who are touched by this condition along with their many loved ones. **This is not medical advice and I am not a doctor, although I would make a fun one.** Additionally, none of this is a derogatory statement towards either the Neurohacker Collective nor Dr Bill Walsh. Were I in a different state of mind, those characters would have played a much different role in my narrative. 
+It is in good and kind faith that I offer this essay, in hopes that it helps the 1-2% of people who are touched by this condition along with their many loved ones. **This is not medical advice and I am not a doctor, although I would make a fun one.** Additionally, none of this is a derogatory statement towards either the Neurohacker Collective nor Dr Bill Walsh. Were I in a different state of mind, those characters may have played a much different role in my narrative. 
 
 That's the whole point...
 
