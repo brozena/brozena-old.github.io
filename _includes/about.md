@@ -14,7 +14,7 @@ Throughout my 30s, I plan on pursuing graduate work in counseling psychology.
 
 ### A few favorite things
 
-- Viktor Frankl's book *Man's Search for Meaning*
+- Positive, humanistic, existential psychology (Frankl, Rogers, Maslow)
 - Organizational structures, architectures & complex change management (e.g., Peter Senge's *The Fifth Discipline*)
 - [Tabla](/tabla/), drums, biorhythms & breathing -- simultaneously when possible
 - Family systems theory & the subject of healing cross-generational trauma (John Bradshaw)
