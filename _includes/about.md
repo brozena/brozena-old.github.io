@@ -26,7 +26,7 @@ I have worked for 7 years in the healthcare domain, aligning and integrating sof
 
 > I am a teacher at heart with broad and deep experience at one of the country's largest and most respected privately-held Medicaid pediatric dental groups. I was trusted to set strategic direction, improve core business processes and lead complex change shortly before a cross-generational ownership transfer was expected. My impact at this group was described "like a crater" by its ownership. By engaging the parts while respecting the needs of the whole, I leveraged software as the catalyst for organizational improvement and the "shift of mind" required of the group to proceed into its next phase of growth.
 
-For a more nuanced take on my work at Smiles4Keeps Pediatric Dentistry, [Healing vs Fixing]({% post_url 2016-05-12-healing-vs-fixing %}) offers a subjective description of my less-technical accomplishments, however lasting. This and other strategic writing was distributed internally and catalyzed organizational changes.
+For a more nuanced take on my work as a change agent at Smiles4Keeps Pediatric Dentistry, [Healing vs Fixing]({% post_url 2016-05-12-healing-vs-fixing %}) offers a subjective description of my less-technical accomplishments, however lasting. This and other strategic writing was distributed internally and catalyzed organizational changes.
 
 ## Recent reads
 
