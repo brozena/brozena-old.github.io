@@ -1,5 +1,4 @@
 ---
 layout: post
-title: On Forgiveness and Creativity
+title: Creative Forgiveness
 ---
-
