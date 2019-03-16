@@ -11,11 +11,11 @@
   }
   .gr_custom_header_1541997346 {
     /* customize your Goodreads header here*/
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid black;
     width: 100%;
     margin-bottom: 5px;
     text-align: center;
-    font-size: 120%
+    font-size: 100%
   }
   .gr_custom_each_container_1541997346 {
     /* customize each individual book container here */

@@ -2,7 +2,7 @@
 
 ## Speaking personally
 
-**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given a good ratio of the two. This site serves to document my full and balanced exploration of artful life and work.
+**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given a good ratio of the two. This site serves to document my full and balanced exploraneurohackhacktion of artful life and work.
 
 I play drums and [tabla](/tabla/) and spend time between New York and Pennsylvania to pursue this discipline.
 
@@ -28,8 +28,4 @@ I have worked for 7 years in the healthcare domain, aligning and integrating sof
 
 For a more nuanced take on my work as a change agent at Smiles4Keeps Pediatric Dentistry, [Healing vs Fixing]({% post_url 2016-05-12-healing-vs-fixing %}) offers a subjective description of my less-technical accomplishments, however lasting. This and other strategic writing was distributed internally and catalyzed organizational changes.
 
-## Recent reads
-
-I tend to keep my [Goodreads profile](https://goodreads.com/brozena) current.
-
-{% include goodreads.html %}
+{% include goodreads1.html %}
