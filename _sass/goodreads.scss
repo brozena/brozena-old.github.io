@@ -7,14 +7,15 @@
     background-image: none;
   }
   h2 {
+    clear:both;
     font-weight: 300;
-    font-style: italic;
-    font-size: .75rem;
+    font-style: none;
     font-family: $base-font-family;
   }
 }
 
 .gr_grid_container {
+  float: left;
   /* outer wrapper for the goodreads snippet. */
 }
 

@@ -6,7 +6,7 @@
 
 I play drums and [tabla](/tabla/) and spend time between New York and Pennsylvania to pursue this discipline.
 
-Zen Buddhism remains an important part of my life, and I practice at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA.
+Zen Buddhism remains an important part of my life. I practice at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA.
 
 I write often, and some is published [here](/archives).
 
