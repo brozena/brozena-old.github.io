@@ -2,7 +2,7 @@
 
 ## Speaking personally
 
-**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given a good ratio of the two. Around here, I document my ongoing exploration of artful life and work.
+**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given a good ratio of the two. Around here, I document my ongoing process of living and working artfully.
 
 I play drums and [tabla](/tabla/) and spend time between New York and Pennsylvania to pursue this discipline.
 
