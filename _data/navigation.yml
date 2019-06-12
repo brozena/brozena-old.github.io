@@ -5,7 +5,7 @@ main:
     url: /
   - title: "Writing"
     url: /archives/
-  - title: "Photos"
-    url: /gallery/
   - title: "Tabla"
     url: /tabla/
+  - title: "Photos"
+    url: /gallery/
