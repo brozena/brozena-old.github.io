@@ -5,7 +5,7 @@ permalink: /gallery/
 description: People, places, and music I have loved.
 ---
 
-### People, places, and music I have loved
+### People, places, music I have loved
 {% include lazyload.html %}
 {% include lightbox.html %}
 {% include image-gallery.html folder="/assets/gallery1" %}
