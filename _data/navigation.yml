@@ -3,6 +3,8 @@
 main:
   - title: "About"
     url: /
+  - title: "Photos"
+    url: /gallery/
   - title: "Tabla"
     url: /tabla/
   - title: "Writing"
