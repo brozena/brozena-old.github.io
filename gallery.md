@@ -10,4 +10,3 @@ _People, places, music I have loved_
 {% include lazyload.html %}
 {% include lightbox.html %}
 {% include image-gallery.html folder="/assets/gallery1" %}
-{% include image-gallery.html folder="/assets/gallery2" %}
