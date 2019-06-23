@@ -10,15 +10,13 @@ Zen Buddhism remains an important part of my life. I practice at the [Endless Mo
 
 I write often, and some is published [here](/archives).
 
-Throughout my 30s, I plan on pursuing graduate work in counseling psychology.
-
 ### A few of my favorite things
 
-- Positive, humanistic, existential psychology (Frankl, Rogers, Maslow)
-- Organizational structures, architectures & complex change management (Peter Senge's *The Fifth Discipline*)
-- [Tabla](/tabla/), drums, breathing -- simultaneously when possible
-- Family systems theory & the healing of cross-generational trauma (John Bradshaw)
-- Complexity theory, complex adaptive systems
+- Complexity science, complex adaptive systems
+- Psychology, especially family systems theory & the healing of cross-generational trauma
+- [Tabla](/tabla/), drums, breathing -- simultaneously when
+possible
+
 
 ## Speaking professionally
 
