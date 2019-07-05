@@ -53,7 +53,7 @@ As I finished an apprenticeship/professional commitment in Scranton, Pennsylvani
 
 Having returned to Penn State for now, I now understand how intrinsic my love of music and especially this instrument is to me. I desire to practice in this tradition as sincerely as I can and afford myself the time to really do it. 
 
-I desire to see this practice as both a means and an end. 
+I can finally see this practice as both a means and an end. 
 
 I can imagine beautiful moments will follow as they have over the last ten years. But today I can feel how light my dream is, finally free of expectation's weight. Each moment I sit down to play and listen is a beautiful moment.
 
