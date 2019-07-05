@@ -4,7 +4,7 @@ title: "Reading by Ear"
 permalink: /reading/
 ---
 
-![Opening pages to HIM, ee cummings](/assets/ee.jpg)
+![Fantastic Planet](/assets/fantastic.jpg)
 
 _I don't always finish what I pick up, and I certainly don't pick up everything I collect. But these logs are my way of following my own interests over time to remember where I've been and maybe to see where I'm going next._
 
