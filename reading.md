@@ -17,7 +17,7 @@ I have a feeling that my comprehension & retention of text at this speed comes w
 The above is true for non-fiction, which is most of what I read. I tend to stick to paper for fiction or poetry when I'm feeling slower.
 
 To make this work, I
-* buy a copy of the book,  
+* buy a copy of the ebook,  
 * import it into [Calibre](https://calibre-ebook.com/) where I keep things organized and in an [open](https://en.wikipedia.org/wiki/EPUB) format,
 * play it back using [Voice Dream Reader](https://www.voicedream.com/reader/). Any bookmarking or notes flow through Voice Dream and out as plaintext.
 
