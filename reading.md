@@ -14,7 +14,7 @@ I listen to electronic text using synthetic text-to-speech at a fairly high rate
 
 I have a feeling that I can comprehend and retain text at this speed after years of listening to solo [tabla](/tabla), which have a very quick linguistic quality. My ears are faster than my eyes.
 
-This is all true mostly for non-fiction, which is most of what I read. I stick to paper for fiction or poetry, when I'm feeling slower.
+This is true for non-fiction, which is most of what I read. I tend to stick to paper for fiction or poetry when I'm feeling slower.
 
 To make this work, I
 * buy a copy of the book,  
