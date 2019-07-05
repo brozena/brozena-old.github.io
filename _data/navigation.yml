@@ -5,6 +5,8 @@ main:
     url: /
   - title: "Writing"
     url: /archives/
+  - title: "Reading"
+    url: /reading/
   - title: "Tabla"
     url: /tabla/
   - title: "Photos"
