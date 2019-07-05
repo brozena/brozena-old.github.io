@@ -51,7 +51,7 @@ As I finished an apprenticeship/professional commitment in Scranton, Pennsylvani
 
 ### Desire and Discipline
 
-Having returned to Penn State for now, I have been able to understand how intrinsic my love of music and especially this instrument is to me. I desire to practice this tradition as sincerely as I can and to afford myself the time for it. 
+Having returned to Penn State for now, I now understand how intrinsic my love of music and especially this instrument is to me. I desire to practice in this tradition as sincerely as I can and afford myself the time to really do it. 
 
 I desire to see this practice as both a means and an end. 
 
