@@ -6,7 +6,7 @@ permalink: /reading/
 
 ![Fantastic Planet](/assets/fantastic.jpg)
 
-_I don't always finish what I pick up, and I certainly don't pick up everything I collect. But by logging it all, I remember where I've been and maybe to see where I'm going next._
+_I don't always finish what I pick up, and I certainly don't pick up everything I collect. But by logging it all, I remember where I've been and maybe see where I'm going next._
 
 ---
 
