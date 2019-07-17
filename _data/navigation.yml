@@ -1,8 +1,6 @@
 # If you want to link only specific pages in your header, add the path to the
 # pages in order as they should show up.
 main:
-  - title: "CV"
-    url: "http://cv.brozena.net"
   - title: "Writing"
     url: /archives/
   - title: "Reading"
@@ -11,3 +9,5 @@ main:
     url: /tabla/
   - title: "Photos"
     url: /gallery/
+  - title: "CV"
+    url: "http://cv.brozena.net"
