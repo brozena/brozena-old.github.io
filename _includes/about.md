@@ -20,7 +20,7 @@ possible
 
 ## Speaking professionally
 
-I have worked for 7 years in the healthcare domain, aligning and integrating software to fit strategic business needs during sustained periods of rapid change. Throughout college, I worked as a software trainer. As I write on my [LinkedIn](https://www.linkedin.com/in/brozena) profile,
+I have worked for 7 years in the healthcare domain, aligning and integrating software to fit strategic business needs during sustained periods of rapid change. Throughout college, I worked as a software trainer. As I write on my [CV](http://cv.brozena.net),
 
 > I am a teacher at heart with broad and deep experience at one of the country's largest and most respected privately-held Medicaid pediatric dental groups. I was trusted to set strategic direction, improve core business processes and lead complex change shortly before a cross-generational ownership transfer was expected. My impact at this group was described "like a crater" by its ownership. By engaging the parts while respecting the needs of the whole, I leveraged software as the catalyst for organizational improvement and the "shift of mind" required of the group to proceed into its next phase of growth.
 
