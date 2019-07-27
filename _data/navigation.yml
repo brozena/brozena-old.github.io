@@ -10,4 +10,4 @@ main:
   - title: "Photos"
     url: /gallery/
   - title: "CV"
-    url: "http://cv.brozena.net"
+    url: "/assets/resume.pdf"
