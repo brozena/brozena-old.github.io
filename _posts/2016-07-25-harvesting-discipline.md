@@ -28,7 +28,7 @@ The moral of the story was to give myself permission to lead what my friend call
 
 Recently at a musical gathering, a friend and teacher described the urgency of personal commitment to a traditional discipline. Although this context was musical, the message was universal: Choose it, or don't. But once chosen, don't be wishy-washy. Don't course correct without allowing enough time for it to really develop. These things require too much to not really commit. And in all seriousness past and future practitioners depend on this.
 
-I have written previously about [saying no]({% post_url 2016-07-25-harvesting-discipline %}) in response to limited time. Back then it was a matter of managing expectations in the immediate term and not pissing off those who rely on you.
+I have written previously about [saying no]({% post_url 2013-09-25-actions-speak %}) in response to limited time. Back then it was a matter of managing expectations in the immediate term and not pissing off those who rely on you.
 
 Commitment to a larger discipline is about saying a fearless no to other possibilities, other heavy things: Interesting things which maybe take months or years to really evolve properly, which require real commitment to grow.
 
