@@ -9,5 +9,5 @@ main:
     url: /tabla/
   - title: "Photos"
     url: /gallery/
-  - title: "CV"
+  - title: "Resume"
     url: "/assets/resume.pdf"
