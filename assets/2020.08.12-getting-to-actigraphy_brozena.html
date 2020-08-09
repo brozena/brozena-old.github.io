@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Smartphone use as sleep-wake cycle. Integrating multimodal data. Nonparametric circadian analysis." />
+  <title>Getting to actigraphy</title>
+  <style type="text/css">
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" type="text/css" media="screen, projection, print"
+    href="https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
+  <script src="https://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
+    charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+<div class="slide titlepage">
+  <h1 class="title">Getting to actigraphy</h1>
+  <p class="author">
+Smartphone use as sleep-wake cycle. Integrating multimodal data. Nonparametric circadian analysis.
+  </p>
+  <p class="date">Jeff Brozena</p>
+</div>
+<div id="goals" class="slide section level2">
+<h1>Goals</h1>
+<ol style="list-style-type: decimal">
+<li>Answer: How is our data useful as actigraphy? “Tappigraphy” as metaphor</li>
+<li>Integrating multimodal data streams via burstiness and memory</li>
+<li>Clearly define nonparametric circadian measures</li>
+<li>Conclude with Jupyter notebook review</li>
+</ol>
+</div>
+<div id="smartphone-use-as-actigraphy" class="title-slide slide section level1">
+<h1>1. Smartphone use as actigraphy</h1>
+
+</div>
+<div id="tappigraphy-paper" class="slide section level2">
+<h1>‘Tappigraphy’ paper</h1>
+<ul>
+<li>This study offers tappigraphy as a clear complement and reflection to actigraphy in sleep measurements</li>
+<li>"We deployed a simplistic algorithm to determine the putative sleep onset and wake-up times based on the smartphone touches. This tappigraphy algorithm essentially combined two safe assumptions.
+<ul>
+<li>the smartphone screen can be only touched when awake.
+<ul>
+<li>this provided a list of smartphone usage gaps of which at least one contained sleep duration</li>
+</ul></li>
+<li>users follow a 24-h sleep–wake cycle.
+<ul>
+<li>This helped select the maximum gap which overlapped with the inactive phase—and this gap was identified as putative sleep." <sup>1</sup></li>
+<li>This simple approach resulted in sleep-onset times and wake-up times, which were highly correlated with the times extracted from the standard actigraphy or sleep diary</li>
+</ul></li>
+<li>Codebase is <a href="https://github.com/findstructureintime/Time-Series-Analysis">here</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="tappigraphy-accounts-for-delays-to-sleep-in-ways-actigraphy-doesnt" class="slide section level2">
+<h1>Tappigraphy accounts for delays to sleep in ways actigraphy doesn’t</h1>
+<ul>
+<li>“Interestingly, the sleep durations were typically shorter when measured by using tappigraphy in comparison with actigraphy or sleep diaries”
+<ul>
+<li>Actigraphy picks up on stillness in bed where tappigraphy picks up on activity</li>
+</ul></li>
+</ul>
+</div>
+
+<div id="integrating-multimodal-data-streams" class="title-slide slide section level1">
+<h1>2. Integrating multimodal data streams</h1>
+
+</div>
+<div id="finding-structure-in-time-paper" class="slide section level2">
+<h1>‘Finding structure in time’ paper</h1>
+<ul>
+<li>Introduces four techniques to analyze high-density multimodal behavioral data
+<ul>
+<li>visualizing raw time series</li>
+<li>describe distribution of time series (burstiness)</li>
+<li>Chromatic and Anisotropic Cross-Recurrence Quantification Analysis** (CRQA)</li>
+<li>Granger Causality</li>
+</ul></li>
+<li>I’ll focus on <strong>burstiness</strong> as one possible framework to analyze multimodal data across time</li>
+</ul>
+</div>
+<div id="burstiness" class="slide section level2">
+<h1>Burstiness?</h1>
+<ul>
+<li>“Conventional statistical methods assume that variations in behavioral time series data are stationary across time, but this is lost in complex environments and results are lost in averaging process”</li>
+<li>“We need methods that can reveal non-linear changes in human behaviors across temporal scales”</li>
+<li>“There are few domain-specific analytical tools that can characterize high-density multimodal dynamics of human activities…”</li>
+</ul>
+</div>
+<div id="burstiness." class="slide section level2">
+<h1>Burstiness.</h1>
+<ul>
+<li>“a method to quantify temporal regularity of occurrence of events” <sup>4</sup>
+<ul>
+<li>“Can be useful for psychologists studying the temporal patterns of behavior”, first introduced in statistical physics</li>
+</ul></li>
+<li>“The analysis requires the user to have a <strong>binary spike train</strong> of 0s and 1s in which a 1 represents the onset of an event of interest and 0 represents instances when an onset did not occur.” <sup>4</sup>
+<ul>
+<li>“Let us consider a system whose components have a measurable activity pattern that can be mapped into a discrete signal, recording the moments when some events take place, like an email being sent…” <sup>2</sup></li>
+</ul></li>
+<li>Does this describe our data?</li>
+</ul>
+</div>
+<div id="burstiness.-1" class="slide section level2">
+<h1>Burstiness.</h1>
+<ul>
+<li>Distribution of events measured across time series
+<ul>
+<li>burstiness parameter <strong>B</strong> is defined as bounded range of (-1, 1), where 1 is most bursty signal, -1 is completely regular (periodic) signal across a time distribution</li>
+</ul></li>
+<li>Interevent correlation-based measure
+<ul>
+<li>memory parameter <strong>M</strong> is correlation coefficient of consecutive interevent time values
+<ul>
+<li>memory coefficient has bounded range (-1, 1) where -1 has negative memory effects and 1 has positive memory effects
+<ul>
+<li>see <a href="https://prateekvjoshi.com/2016/08/27/what-is-long-memory-in-time-series-analysis/">this</a> for clear definition of above</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Goh and Barabási <sup>2</sup> describe the relationship between these in depth, but it is beyond the scope of this presentation</li>
+</ul>
+</div>
+<div id="burstiness-in-human-behavior" class="slide section level2">
+<h1>Burstiness in human behavior</h1>
+<ul>
+<li>Describes clustering of events in a time series</li>
+<li>Allows “researcher the ability to provide a simple index of temporal structure of behaviors of interest” <sup>4</sup>
+<ul>
+<li><strong>Can we use this sort of index as a method of calculating anomaly across multiple data streams across time?</strong></li>
+</ul></li>
+</ul>
+</div>
+
+<div id="using-nonparametric-measures" class="title-slide slide section level1">
+<h1>3. Using nonparametric measures</h1>
+
+</div>
+<div id="a-fresh-look-at-use-of-nonparametric-analysis-in-actimetry-paper" class="slide section level2">
+<h1>‘A fresh look at use of nonparametric analysis in actimetry’ paper</h1>
+<ul>
+<li>The rest-activity rhythm is a biological rhythm that does notfollow a sinusoidal waveform. For this reason other variables have been proposed to describe this rhythm more adequately.
+<ul>
+<li>Since some variables generated by these methods are not related to the parameters obtained by adjustment to the cosine function, they are referred to as nonparametric functions.</li>
+<li>These variables include:
+<ul>
+<li>intradaily variability (IV)</li>
+<li>interdaily stability (IS)</li>
+<li>the least active five-hour period (L5) and the most active ten-hour period (M10)</li>
+</ul></li>
+</ul></li>
+<li>In contrast to cosinor, this methodology does not follow the assumption that the rest-activity rhythm behaves similarly to a sinusoidal wave. <sup>3</sup></li>
+</ul>
+</div>
+<div id="fresh-look-paper" class="slide section level2">
+<h1>‘Fresh look’ paper</h1>
+<ul>
+<li>“Although algorithms for assessing sleep from actimetry data exist, it is useful to analyze the rest-activity rhythm using nonparametric methods. This would then allow rest-activity rhythm stability, fragmentation and amplitude to be quantified. In addition, sleep and wakefulness efficiency can be quantified separately.”</li>
+<li><strong>“Patients with bipolar disorder had a less stable (smaller IS) and more fragmented (larger IV) rest-activity rhythm than subjects from a control group”</strong> <sup>3</sup></li>
+</ul>
+</div>
+<div id="pyactigraphy-nonparametric-calculations" class="slide section level2">
+<h1>pyActigraphy nonparametric calculations</h1>
+<ul>
+<li>via pyActigraphy’s <a href="https://github.com/ghammad/pyActigraphy/blob/master/pyActigraphy/metrics/metrics.py">metrics.py</a>
+<ul>
+<li><p>Average daily total activity</p>
+<pre><code>  def _average_daily_total_activity(data):
+
+      return data.resample(&#39;1D&#39;).sum().mean()</code></pre></li>
+<li><p>Interdaily stability</p>
+<pre><code>  def _interdaily_stability(data):
+
+          r&quot;&quot;&quot;Calculate the interdaily stability&quot;&quot;&quot;
+
+      d_24h = data.groupby([
+          data.index.hour,
+          data.index.minute,
+          data.index.second]
+      ).mean().var()
+
+      d_1h = data.var()
+
+  return (d_24h / d_1h)</code></pre></li>
+<li><p>Intradaily variability</p>
+<pre><code>  def _intradaily_variability(data):
+
+          r&quot;&quot;&quot;Calculate the intradaily variability&quot;&quot;&quot;
+          c_1h = data.diff(1).pow(2).mean()
+          d_1h = data.var()
+          return (c_1h / d_1h)</code></pre></li>
+</ul></li>
+</ul>
+</div>
+
+<div id="conclusion" class="title-slide slide section level1">
+<h1>4. Conclusion</h1>
+
+</div>
+<div id="new-visualizations-available" class="slide section level2">
+<h1>New visualizations available</h1>
+<ul>
+<li>Locally hosted <a href="http://localhost:8888/notebooks/saeed.ipynb">here</a></li>
+</ul>
+</div>
+<div id="bibliography" class="slide section level2">
+<h1>Bibliography</h1>
+<ol style="list-style-type: decimal">
+<li>Borger, J. N., Huber, R., &amp; Ghosh, A. (2019). Capturing sleep–wake cycles by using day-to-day smartphone touchscreen interactions. Npj Digital Medicine, 2(1), 1–8. https://doi.org/10.1038/s41746-019-0147-4
+<ul>
+<li>Matlab code is <a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/U7NPHZ">here</a></li>
+</ul></li>
+<li>Goh, K.-I., &amp; Barabási, A.-L. (2008). Burstiness and memory in complex systems. EPL (Europhysics Letters), 81(4), 48002. https://doi.org/10.1209/0295-5075/81/48002</li>
+<li>Gonçalves, B., Adamowicz, T., Louzada, F. M., Moreno, C. R., &amp; Araujo, J. F. (2015). A fresh look at the use of nonparametric analysis in actimetry. Sleep Medicine Reviews, 20, 84–91. https://doi.org/10.1016/j.smrv.2014.06.002</li>
+<li>Xu, T. L., de Barbaro, K., Abney, D., &amp; Cox, R. (2019). Finding Structure in Time: Visualizing and Analyzing Behavioral Time Series [Preprint]. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/mpz9g">https://doi.org/10.31234/osf.io/mpz9g</a>
+<ul>
+<li>Matlab code is <a href="https://github.com/findstructureintime/Time-Series-Analysis">here</a></li>
+</ul></li>
+</ol>
+</div>
+</body>
+</html>
