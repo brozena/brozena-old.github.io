@@ -13,7 +13,7 @@ _In the words of Robert Lowell, "Yet why not say what happened?"_
 
 ___
 
-Over the last year of my life, I aimed to confirm old answers (_known-good medication treatments_) to hard questions (_living well with cross-generational bipolarity_) as consciously and as completely as I could. Having learned of the possibility of treating some common mental illness with [micro-nutrients](http://www.ibpf.org/advanced-nutrient-therapies-bipolar-disorders-dr-william-walsh), I attempted a full exploration into what it may take to lead a good life with my diagnosis of bipolar disorder, type 2.
+Over the last year of my life, I aimed to confirm old answers (_known-good medication treatments_) to hard questions (_living well with cross-generational bipolarity_) as consciously and as completely as I could. Having learned of the possibility of treating some common mental illness with [micronutrients](http://www.ibpf.org/advanced-nutrient-therapies-bipolar-disorders-dr-william-walsh), I attempted a full exploration into what it may take to lead a good life with my diagnosis of bipolar disorder, type 2.
 
 You may be familiar with the illness. Several celebrities have spoken out about their experiences with it, many with the eloquence and wit which tend to characterize those affected by it. 
 
@@ -32,7 +32,11 @@ That's the whole point...
 
 Finally, after ten years of medication, I wanted to reassess the full spectrum of available treatment options for bipolar disorder — especially those aiming at its many causes, rather than just managing its symptoms.
 
-As Kay Redfield Jamison has written, the most exuberant of us require more shielding than others. And so, *again* I learn that medicated life offers much of the required armor to manage myself as an exuberant person in this world -- while loved ones in my life wait in worry for me to realize this perennial truth. 
+Many of us struggle with the commitment to medicated life because it simply *feels better* not to take it. Once we stabilize into a medication regimen, we inevitably believe that we are ready to go without. In addition to taking for granted the stability of medicated life, I have found the gravitational pull towards elevated mood states to be especially frustrating. Oftentimes these states do yield very real and brilliant moments of creativity. But the massive caveat comes later, as the state inevitably reveals itself to be unsustainable.  
+
+Although I had most certainly gone through these common cycles of stability and the near-universal desire to wean from meds earlier in life, it is the pull towards elevated states that I must explore here.
+
+As Kay Redfield Jamison has written, the most exuberant of us require more shielding than others. And so, *again* I learn that medicated life offers much of the required armor to manage myself as an exuberant person in this world — while loved ones in my life wait in worry for me to realize this perennial truth.
 
  **Hypomania is** considered to be a mild form of madness. It is the state of consciousness I frequent when I go without medication. In mice, when hypomania is induced, they tend to try to escape their environment. It is, simply put, "not yet madness."
 
