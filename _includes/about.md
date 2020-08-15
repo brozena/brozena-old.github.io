@@ -20,9 +20,9 @@ possible
 
 ## Speaking professionally
 
-I have worked for 7 years in the healthcare domain, aligning and integrating software to fit strategic business needs during sustained periods of rapid change. Throughout college, I worked as a software trainer. As I write on my [CV](/assets/resume.pdf),
+Today I am nestled near Penn State where I am preparing for graduate school in information sciences. I am employed by the [Wellbeing and Health Innovation Lab](https://whilab.org) where I'm working on [digital phenotyping](https://en.wikipedia.org/wiki/Digital_phenotyping) of bipolar disorder.
 
-> I am a teacher at heart with broad and deep experience at one of the country's largest and most respected privately-held Medicaid pediatric dental groups. I was trusted to set strategic direction, improve core business processes and lead complex change shortly before a cross-generational ownership transfer was expected. My impact at this group was described "like a crater" by its ownership. By engaging the parts while respecting the needs of the whole, I leveraged software as the catalyst for organizational improvement and the "shift of mind" required of the group to proceed into its next phase of growth.
+Previously, I led the [digital transformation](https://en.wikipedia.org/wiki/Digital_transformation#Healthcare) of [Smiles4Keeps Pediatric Dentistry](https://www.smiles4keeps.com), one of the nation's largest and highest-quality closely-held Medicaid groups. I stewarded the group from paper operations into a fully integrated, centralized software environment, readying it for the next phase of growth. 
 
 For a more nuanced take on my work as a change agent at Smiles4Keeps Pediatric Dentistry, [Healing vs Fixing]({% post_url 2016-05-12-healing-vs-fixing %}) offers a subjective description of my less-technical accomplishments, however lasting. This and other strategic writing was distributed internally and catalyzed organizational changes.
 
