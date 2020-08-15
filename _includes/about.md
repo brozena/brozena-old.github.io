@@ -24,7 +24,7 @@ Today I am nestled near Penn State where I am preparing for graduate school in i
 
 Previously, I led the [digital transformation](https://en.wikipedia.org/wiki/Digital_transformation#Healthcare) of [Smiles4Keeps Pediatric Dentistry](https://www.smiles4keeps.com), one of the nation's largest and highest-quality closely-held Medicaid groups. I stewarded the group from paper operations into a fully integrated, centralized software environment, readying it for the next phase of growth. 
 
-For a more nuanced take on my work as a change agent at Smiles4Keeps Pediatric Dentistry, [Healing vs Fixing]({% post_url 2016-05-12-healing-vs-fixing %}) offers a subjective description of my less-technical accomplishments, however lasting. This and other strategic writing was distributed internally and catalyzed organizational changes.
+For a more nuanced take on my work as a change agent at Smiles4Keeps, [Healing vs Fixing]({% post_url 2016-05-12-healing-vs-fixing %}) offers a subjective description of my less-technical accomplishments, however lasting. This and other strategic writing was distributed internally and catalyzed organizational changes.
 
 <div class="recent-reads">
 <script src="https://www.goodreads.com/review/grid_widget/7071685.Now%20reading?cover_size=medium&hide_link=true&hide_title=&num_books=7&order=a&shelf=currently-reading&sort=position&widget_id=1552764228" type="text/javascript" charset="utf-8"></script>
