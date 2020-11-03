@@ -1,5 +1,5 @@
 ---
 layout: archive
 title: "Essays"
-permalink: /archives/
+permalink: /essays/
 ---
