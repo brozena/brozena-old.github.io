@@ -12,19 +12,15 @@ I write often, and some is published [here](/essays). **Start with [Nobody Falls
 
 ### A few of my favorite things
 
-- Complexity science, complex adaptive systems
-- Psychology, especially family systems theory & the healing of cross-generational trauma
-- [Tabla](/tabla/), drums, breathing -- simultaneously when
-possible
-
+- Psychology, especially family systems theory
+- [Tabla](/tabla/), drums, minimalism
+- Complexity, complex adaptive systems
 
 ## Speaking professionally
 
 Today I am nestled near Penn State where I am preparing for graduate school in information sciences. I am employed by the [Wellbeing and Health Innovation Lab](https://whilab.org) where I'm working on **[digital phenotyping](https://en.wikipedia.org/wiki/Digital_phenotyping) of bipolar disorder.**
 
 Previously, **I led the [digital transformation](https://en.wikipedia.org/wiki/Digital_transformation)** of [Smiles4Keeps Pediatric Dentistry](https://www.smiles4keeps.com), one of the nation's largest and highest-quality closely-held Medicaid groups. With minimal supervision and years of close mentorship by its owner, I stewarded the group from paper operations into a fully-integrated, centralized operating environment.
-
-For a more nuanced take on my work as a change agent at Smiles4Keeps, [Healing vs Fixing]({% post_url 2016-05-12-healing-vs-fixing %}) offers a subjective description of my less-technical accomplishments, however lasting. This and other strategic writing was distributed internally and catalyzed organizational changes.
 
 <div class="recent-reads">
 <script src="https://www.goodreads.com/review/grid_widget/7071685.Now%20reading?cover_size=medium&hide_link=true&hide_title=&num_books=7&order=a&shelf=currently-reading&sort=position&widget_id=1552764228" type="text/javascript" charset="utf-8"></script>
