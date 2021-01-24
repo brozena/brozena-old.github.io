@@ -8,7 +8,7 @@ I play drums and [tabla](/tabla/) and spend time between New York and Pennsylvan
 
 I practice Zen Buddhism with the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA.
 
-I write often, and some is published [here](/essays). **Start with [Nobody Falls Halfway](/nobody-falls-halfway/).** I also have a small [digital garden](https://notes.brozena.net).
+I write often, and some is published [here](/essays). **Start with [Nobody Falls Halfway](/nobody-falls-halfway/).** I also have a small **[digital garden](https://notes.brozena.net)**.
 
 ### A few of my favorite things
 
