@@ -2,13 +2,15 @@
 
 ## Speaking personally
 
-**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given a good ratio of the two. Around here, I document my ongoing process of living and working artfully.
+**I'm Jeff**, a native Pennsylvanian fascinated by trees and people given a good ratio of the two. This site documents my process of living and working artfully.
 
-I play drums and [tabla](/tabla/) and spend time between New York and Pennsylvania to pursue this discipline.
+I write often. Some is published [here](/essays). **Start with [Nobody Falls Halfway](/nobody-falls-halfway/).**
 
-I practice Zen Buddhism with the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA.
+I play drums and [tabla](/tabla/) and spend time between [New York](https://danweiss.net) and Pennsylvania to pursue this.
 
-I write often, and some is published [here](/essays). **Start with [Nobody Falls Halfway](/nobody-falls-halfway/).** I also have a small **[digital garden](https://notes.brozena.net)**.
+I practice Zen Buddhism at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA.
+
+There's also a small **[digital garden](https://notes.brozena.net)**.
 
 ### A few of my favorite things
 
