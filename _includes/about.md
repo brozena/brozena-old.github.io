@@ -10,8 +10,6 @@ I play drums and [tabla](/tabla/) and spend time between [New York](https://danw
 
 I practice Zen Buddhism at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA.
 
-There's also a small **[digital garden](https://notes.brozena.net)**.
-
 ### A few of my favorite things
 
 - Psychology, especially family systems theory
