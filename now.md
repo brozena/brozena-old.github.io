@@ -13,4 +13,6 @@ This is all in preparation for grad school in informatics. I plan on researching
 
 I've also started an [Adult Children of Alcoholics](https://adultchildren.org) meeting online. We have a lively group that meets three nights per week, making use of family systems concepts in a 12-step group setting. I'm happy to say this has been helpful in a bunch of ways to a bunch of people during the pandemic. 
 
+PS. Check out [nownownow.com](https://nownownow.com)
+
 *Updated February 2021*
