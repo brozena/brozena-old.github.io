@@ -3,4 +3,6 @@ layout: archive
 title: "Essays"
 permalink: /essays/
 ---
-If you're here, you might also want to go [here](https://notes.brozena.net).
+# Essays
+
+*Some writing through the years. You may also want to go [here](https://notes.brozena.net). More frequent, less polished writing.*
