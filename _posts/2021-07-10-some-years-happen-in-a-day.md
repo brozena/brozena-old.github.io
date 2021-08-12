@@ -12,4 +12,4 @@ In this state of mind, clock time gives way to kairos.
 
 With so many subjective states to be had at once, who is counting? Off to the races. Start your engines. 
 
-However, in terms of Falling Halfway, the decision to return Home to Pennsylvania was simultaneously temporal, geographic and psychological. Coming home to sanity. 
+However, in terms of [Falling Halfway](https://brozena.net/nobody-falls-halfway/), the decision to return Home to Pennsylvania was simultaneously temporal, geographic and psychological. Coming home to sanity. 
