@@ -8,7 +8,7 @@ I write often. Some is online [here](/essays). **Start with [Nobody Falls Halfwa
 
 I play drums and [tabla](/tabla/) and spend time between [New York](https://danweiss.net) and Pennsylvania to pursue this.
 
-I practice Zen Buddhism at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA. Lately I've been attending local Quaker meetings in State College.
+I practice Zen Buddhism at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA. Lately I've also been attending local Quaker meetings in State College.
 
 ### A few of my favorite things
 
