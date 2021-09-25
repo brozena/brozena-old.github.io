@@ -10,12 +10,6 @@ I play drums and [tabla](/tabla/) and spend time between [New York](https://danw
 
 I practice Zen Buddhism at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA. Lately I've also been attending local Quaker meetings in State College.
 
-### A few of my favorite things
-
-- Psychology, especially family systems theory
-- [Tabla](/tabla/), drums, minimalism
-- Complexity, complex adaptive systems
-
 ## Speaking professionally
 
 Today I am nestled near Penn State where I am beginning graduate school in informatics. I am in the [Wellbeing and Health Innovation Lab](https://whilab.org) where I'm working on **[digital phenotyping](https://en.wikipedia.org/wiki/Digital_phenotyping) of bipolar disorder.**
