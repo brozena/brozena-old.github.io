@@ -1,0 +1,22 @@
+- Summer 2022
+	- Late May (50 hours)
+		- [Data Structures](https://www.udemy.com/course/data-structures-algorithms-python/) (~5 hours)
+		- ReactJS prep (~20 hours)
+		- NSF GRFP (~25 hours)
+			- Oysterpail x FEP
+			- Multiplayer Finhealth
+	- June (~250 hours)
+		- Finhealth prototype (~130 hours)
+		- [[202201271534 summary for whi lab|Oasis analysis]] (~20 hours)
+		- NSF GRFP (~25 hours)
+		- [PSU's Math/Stat Fundamentals](https://online.stat.psu.edu/statprogram/reviews) (~10 hours)
+		- [Hopkins' Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling#courses) (~35 hours)
+		- [Hopkins' Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling#courses) (~30 hours)
+	- July (~250 hours)
+		- Finhealth prototype (~170 hours)
+		- [[202201271534 summary for whi lab|Oasis analysis]] (~20 hours)
+		- [Hopkins' Stats for Data Science Courses](https://www.coursera.org/specializations/advanced-statistics-data-science#courses) (~40 hours)
+		- NSF GRFP (~20 hours)
+	- August
+		- [FastAI's numerical linear algebra](https://www.fast.ai/2017/07/17/num-lin-alg/) (~80 hours)
+		- NSF GRFP (~10 hours)
