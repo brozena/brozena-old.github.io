@@ -1,8 +1,3 @@
----
-layout: page
-title: 'Summer 2022 plans'
----
-
 - Summer 2022
 	- Late May (50 hours)
 		- [Data Structures](https://www.udemy.com/course/data-structures-algorithms-python/) (~5 hours)
