@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 'Summer 2022 plans'
-permalink: /summer
 ---
 
 - Summer 2022
