@@ -1,3 +1,14 @@
+---
+layout: page
+permalink: /summer
+---
+
+## Priorities
+1. Create functional finhealth prototype using ReactJS
+2. Oasis analysis, paper
+3. Pay off math/stats debt by August
+4. Write NSF GRFP application for fall submission
+
 - Summer 2022
 	- Late May (50 hours)
 		- [Data Structures](https://www.udemy.com/course/data-structures-algorithms-python/) (~5 hours)
