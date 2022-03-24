@@ -12,7 +12,7 @@ permalink: /summer
 
 ## Schedule with Estimated Time
 
-|                         | **Task**                                                                                                                     | **Estimated Hours** |
+|                         | **Project**                                                                                                                     | **Estimated Hours** |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|
 | **Late May (50 hours)** | [Data Structures](https://www.udemy.com/course/data-structures-algorithms-python/)                                           | 10                  |
 |                         | ReactJS prep                                                                                                                 | 20                  |
