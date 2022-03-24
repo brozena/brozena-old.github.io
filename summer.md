@@ -6,8 +6,8 @@ permalink: /summer
 
 ## Sorted Priorities
 1. Create functional finhealth prototype using ReactJS
-2. Oasis analysis, paper
-3. Pay off math/stats debt by August
+2. Pay off math/stats debt by August
+3. Oasis analysis, paper
 4. Write NSF GRFP application for fall submission
 
 ## Schedule with Estimated Time
