@@ -1,3 +1,8 @@
+---
+layout: page
+title: 'Summer '22 Plan'
+permalink: /summer
+---
 
 ## Priorities
 1. Create functional finhealth prototype using ReactJS
