@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Summer '22 Project Plan"
-permalink: /summer
+permalink: /summer/
 ---
 
 ### Sorted Priorities
