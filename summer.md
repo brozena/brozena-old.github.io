@@ -10,7 +10,7 @@ permalink: /summer/
 3. Oasis analysis, paper
 4. Write NSF GRFP application for fall submission
 
-### Schedule with Estimated Time
+### Schedule
 
 |                         | **Project**                                                                                                                     | **Estimated Hours** |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|
