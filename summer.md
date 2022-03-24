@@ -27,5 +27,5 @@ permalink: /summer
 |                         | Oasis analysis                                                                                                               | 20                  |
 |                         | [Hopkins' Stats for Data Science Courses](https://www.coursera.org/specializations/advanced-statistics-data-science#courses) | 40                  |
 |                         | NSF GRFP                                                                                                                     | 20                  |
-| August (90 hours)       | [FastAI's numerical linear algebra](https://www.fast.ai/2017/07/17/num-lin-alg/)                                             | 80                  |
+| **August (90 hours)**   | [FastAI's numerical linear algebra](https://www.fast.ai/2017/07/17/num-lin-alg/)                                             | 80                  |
 |                         | NSF GRFP                                                                                                                     | 10                  |
