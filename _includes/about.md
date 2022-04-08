@@ -16,7 +16,4 @@ I play drums and [tabla](/tabla/) and have spent time between [New York](https:/
 I practice Zen Buddhism at the [Endless Mountain Zendo](http://www.endlessmountainzendo.org) in Stillwater, PA. Lately I've also been attending local Quaker meetings in State College.
 
 
-<div class="recent-reads">
-<script src="https://www.goodreads.com/review/grid_widget/7071685.Now%20reading?cover_size=medium&hide_link=true&hide_title=&num_books=7&order=a&shelf=currently-reading&sort=position&widget_id=1552764228" type="text/javascript" charset="utf-8"></script>
-</div>
 
