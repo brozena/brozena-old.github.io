@@ -17,7 +17,7 @@ title: brozena.net
 author: Jeff Brozena
 description:  
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://brozena.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brozena.github.io/brozena-old.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
